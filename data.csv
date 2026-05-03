@@ -1,0 +1,9 @@
+Date,Department,Hours,TeamSize,Status
+2026-01-01,Finance,12,3,Completed
+2026-01-15,Marketing,8,2,In Progress
+2026-02-01,Sales,15,4,Completed
+2026-02-15,HR,10,3,Completed
+2026-03-01,Finance,20,5,In Progress
+2026-03-15,Marketing,9,4,Completed
+2026-04-01,Sales,7,2,Completed
+2026-04-15,HR,18,5,In Progress
